@@ -41,3 +41,6 @@ luac.out
 
 #VScode
 .vscode
+
+#Lua
+.luarc.json
