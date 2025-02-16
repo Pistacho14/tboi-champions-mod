@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive id="1" name="Primera Champions" gfx="champions.png" description="1/14" quality="0" cache="damage" />
+</items>
