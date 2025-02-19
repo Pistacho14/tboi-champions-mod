@@ -1,3 +1,5 @@
 <items gfxroot="gfx/items/" version="1">
     <passive id="1" name="Primera Champions" gfx="champions.png" description="1/14" quality="0" cache="damage" />
+
+    <passive id="3" name="Gafas de Teleco" gfx="" description="Mejoran la visión!" quality="4" cache="firedelay, range" />
 </items>
